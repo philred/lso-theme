@@ -4,7 +4,8 @@
 html,
 body,
 #page  {
-  background: url(/images/umsbar/um-apps-banner-bg.gif) repeat-x #2e4059;
+#  background: url(/images/umsbar/um-apps-banner-bg.gif) repeat-x #2e4059;
+  background: url(../images/ms-bg.jpg) repeat-x #2e4059;
   height: 100%;
 }
 #page-wrapper {
