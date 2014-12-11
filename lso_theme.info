@@ -1,4 +1,4 @@
-name = lso-theme
+name = LSO Theme
 description = A subtheme of Bartik, built for University of Missouri System 
 package = Core
 version = VERSION
@@ -38,4 +38,3 @@ settings[shortcut_module_link] = 0
 version = "7.22"
 project = "drupal"
 datestamp = "1365027012"
-
