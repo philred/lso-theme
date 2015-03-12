@@ -1,11 +1,10 @@
 name = LSO Theme
-description = A subtheme of Bartik, built for University of Missouri System 
+description = A subtheme of Bartik, built for University of Missouri System Digital Library
 package = Core
 version = VERSION
 core = 7.x
 base theme = bartik
 
-stylesheets[all][] = css/mospace_base.css
 stylesheets[all][] = css/layout.css
 stylesheets[all][] = css/style.css
 stylesheets[all][] = css/colors.css
