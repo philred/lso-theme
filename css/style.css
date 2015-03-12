@@ -10,12 +10,18 @@ body {
   border: 0;
   outline: 0;
 }
-a:link,
-a:visited {
-  text-decoration: none;
+a:link {
+  color: #607890;
 }
-a:hover,
-a:active,
+a:visited {
+  color: #607890;
+}
+a:hover {
+  color: #036;
+}
+a:active {
+  color: #036;
+}
 a:focus {
   text-decoration: underline;
 }
@@ -26,7 +32,10 @@ h1 {
   text-align: left;
 }
 h2 {
+  color: #1f3f5e;
+  font-family: Georgia,Times,"Times New Roman",serif;
   font-size: 123.1%;
+  text-align: left;
 }
 h3 {
   font-size: 116%;		
