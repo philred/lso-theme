@@ -317,7 +317,7 @@ ul.tips {
 }
 #logo {
   float: left; /* LTR */
-  padding: 15px 15px 15px 10px; /* LTR */
+  padding: 0 15px 15px 0; /* LTR */
 }
 #name-and-slogan {
   float: left; /* LTR */
